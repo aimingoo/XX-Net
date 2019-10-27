@@ -1,1 +1,0 @@
-https://github.com/XX-net/XX-Net/wiki/GoAgent-Config-file
